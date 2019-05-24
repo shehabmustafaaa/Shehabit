@@ -1,0 +1,35 @@
+@media (max-width: 922px) {
+  h2 {
+    font-size: 30px;
+  }
+	.header form {
+		margin-top: 20px;
+		float: none;
+	}
+	.right-side {
+		text-align: center;
+	}
+	.tabs li {
+		float: left;
+		width: 33.3%;
+		margin: 0 0 20px 0;
+	}
+	.tabs li a {
+		width: 100%;
+		height: 50px;
+		line-height: 50px;
+  }
+  #prices article {
+    max-width:300px;
+    margin:20px auto;
+  }
+  #prices article.active {
+    margin-top:0;
+  }
+  section {
+    padding: 30px 0;
+	}
+	.tabs .tab .width40 {
+		width:100%
+	}
+}
